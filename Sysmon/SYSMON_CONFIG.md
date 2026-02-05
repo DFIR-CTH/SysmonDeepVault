@@ -24,21 +24,35 @@
 
 ## List_Of_Main_Event_Types :
 
-[ProcessCreate (1)](Custom_Config/Process_Creation.md)  
-[FileCreate (11)]()  
-[RegistryEvent (12-14)]()  
-[NetworkConnect (3)]()  
-[ProcessAccess (10)]()  
-[DriverLoad (6)]()  
-[ImageLoad (7)]()  
-[DNSQuery (22)]()  
-[FileDelete (23)]()  
-[PipeEvent (17-18)]()  
-[WMIEvent (19-20)]()  
-[ClipboardChange (24)]()
+[ProcessCreate (1)](Custom_Config/Process_Creation.md)
+
+[FileCreate (11)](Custom_Config/File_Creation.md)
+
+[RegistryEvent (12-14)](Custom_Config/Registry_Event.md) 
+
+[NetworkConnect (3)](Custom_Config/Network_Connection.md) 
+
+[CreateRemoteThread (8)](Custom_Config/CreateRemoteThread.md)
+
+[ProcessAccess (10)](Custom_Config/ProcessAccess.md) 
+
+[FileCreateStreamHash (15)](Custom_Config/FileCreateStreamHash.md) 
+
+[ImageLoad (7)](Custom_Config/Image_Load.md) 
+
+[DNSQuery (22)](Custom_Config/DNS_Event.md)
+
+[FileDelete (23)](Custom_Config/File_Delete.md)
+
+[PipeEvent (17-18)](Custom_Config/Pipe_Event.md)  
+
+[WMIEvent (19-20)](Custom_Config/WMI_Event.md)
+
+[ClipboardChange (24)](Custom_Config/Clipboard_Change.md)
 
 
-# Detection/Optimization Examples Table
+
+**Detection/Optimization Examples Table**
 
 | **Section (EventID)**       | **Detection / Optimization Examples**                                                                 |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
