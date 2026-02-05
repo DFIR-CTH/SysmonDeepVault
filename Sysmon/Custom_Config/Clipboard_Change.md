@@ -18,5 +18,6 @@
 		<Image condition="contains">cmd</Image>
 	</ClipboardChange>
 </RuleGroup>
+```
 
 Detects when PowerShell or CMD processes modify clipboard content (credential harvesting).
