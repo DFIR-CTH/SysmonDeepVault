@@ -19,3 +19,5 @@
 		<TargetFilename condition="begin with">%TEMP%</TargetFilename>
 	</FileDelete>
 </RuleGroup>
+
+This detects PowerShell script cleanup and TEMP directory deletions common in attack cleanup phases.
