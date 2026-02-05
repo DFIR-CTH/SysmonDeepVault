@@ -19,3 +19,5 @@
 		<PipeName condition="contains">psexec</PipeName>
 	</PipeEvent>
 </RuleGroup>
+
+Detects PsExec service pipes and endpoint mapper used in lateral movement scenarios.
