@@ -1,4 +1,4 @@
-## Event ID 1: Process Creation
+Event ID 1: Process Creation
 
 - This event will look for any processes that have been created.
 
