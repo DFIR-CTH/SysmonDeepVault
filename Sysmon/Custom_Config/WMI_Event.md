@@ -18,5 +18,6 @@
 		<Query condition="contains">cmd.exe</Query>
 	</WmiEvent>
 </RuleGroup>
+```
 
 This catches WMI reconnaissance queries and command execution attempts via WMI.
