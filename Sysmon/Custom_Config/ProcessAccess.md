@@ -17,3 +17,4 @@
 	</ProcessAccess>
 </RuleGroup>
 ```
+The above monitors processes accessing LSASS (credential store) - key for detecting Mimikatz and similar tools
