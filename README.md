@@ -12,7 +12,7 @@ The repository **🔐 SysmonDeepVault** offers a complete overview, detailed wor
 
 ## 🖥️ [INSTALLING_SYSMON](Sysmon/INSTALLING_SYSMON.md)
 
-## 🧰 [PREPARING_SYSMON]()
+## 🧰 [PRACTICAL_SYSMON]()
 
 ## 🛠️📜 [SYSMON_CONFIG_OVERVIEW](Sysmon/SYSMON_CONFIG.md)
 
