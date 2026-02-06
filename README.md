@@ -10,8 +10,10 @@ The repository **🔐 SysmonDeepVault** offers a complete overview, detailed wor
 
 ## 🔐 [SYSMON_OVERVIEW](Sysmon/SYSMON_OVERVIEW.md) 
 
-## 🛠️📜 [SYSMON_CONFIG_OVERVIEW](Sysmon/SYSMON_CONFIG.md)
+## 🖥️ [INSTALLING_SYSMON](Sysmon/INSTALLING_SYSMON.md)
 
-## 🖥️🧰 [INSTALLING_AND_PREPARING_SYSMON]()
+## 🧰 [PREPARING_SYSMON]()
+
+## 🛠️📜 [SYSMON_CONFIG_OVERVIEW](Sysmon/SYSMON_CONFIG.md)
 
 Don't miss these resources for mastering Sysmon in your DFIR toolkit!
