@@ -22,6 +22,8 @@
 
 - Sysmon config.xml supports "~12" main event types with include/exclude rules (conditions: Image, CommandLine, hashes, paths, etc.) for detection tuning, evasion resistance, FP reduction, efficiency, and pre-hunt—unlimited combinations via <RuleGroup name="..." onmatch="include/exclude">.
 
+- Refernce of [Custom_Sysmon_Config_File_Repository](https://github.com/olafhartong/sysmon-modular/tree/master) and [sysmonconfig.xml](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml) widely used by Industry.If you don't want to create your own configuration file , then try this config file [sysmonconfig.xml](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml) 
+
 ## List_Of_Main_Event_Types :
 
 [ProcessCreate (1)](Custom_Config/Process_Creation.md)
