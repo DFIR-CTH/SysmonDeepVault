@@ -25,7 +25,7 @@ Download-SysInternalsTools C:\Sysinternals
 # Command Used: 
 
 ```bash
-Sysmon.exe -accepteula -i <Downloads\sysmonconfig.xml>
+sysmon64.exe -accepteula -i <Downloads\sysmonconfig.xml>
 ```
 
 - Now that Sysmon is started with the configuration file we want to use, we can look at the Event Viewer to monitor events.
